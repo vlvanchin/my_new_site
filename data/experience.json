@@ -1,0 +1,40 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Aug 1992 - Mar 1994",
+			"company" : "Dr. M.G.R. Engineering College, India",
+			"description" : "Worked as a Lecturer in department of Computer Science & Engineering. My job was to conduct lectures, tutorials and  practicals."
+		},
+		{
+			"timeperiod" : "Apr 1994 - May 1995",
+			"company" : "Arulmigu Kalasalingam College of Engineering, India",
+			"description" : "Worked as a Lecturer in department of Computer Science & Engineering. My job was to conduct lectures, tutorials, practicals and department in-charge."
+		},
+		{
+			"timeperiod" : "Jun 1995 - Dec 1996",
+			"company" : "Sri Ramakrishna Engineering College, India",
+			"description" : "Worked as a Lecturer in department of Computer Science & Engineering. My job was to conduct lectures, tutorials, practicals and department in-charge."
+		},
+		{
+			"timeperiod" : "Dec 1996 - Dec 2000",
+			"company" : "Institute of Road & Transport Technology, India",
+			"description" : "Worked as a Lecturer in Department of Computer Science & Engineering. My job is to condect lectures, tutorials, practicals and guide projects for year 2, 3 and 4 students."
+		},
+		{
+			"timeperiod" : "Dec 2000 - Oct 2005",
+			"company" : "School of Info-Communication Technology, Singapore Polytechnic, Singapore",
+			"description" : "My job was to conduct lectures, tutorials, practicals and guide projects for year 2 and 3 students on core Java and Internet & web programming and OOPs modules."
+		},
+		{
+			"timeperiod" : "Nov 2005 - Jun 2007",
+			"company" : "Arunti Pte Ltd, Singapore",
+			"description" : "Developed components for mobile marketing applications, worked for both front end and back end components."
+		},
+		{
+			"timeperiod" : "Aug 2007 - Present",
+			"company" : "Bosch Software Innovations Pte Ltd, Singapore",
+			"description" : "Being a software developer, my works is to keep the servers available and reliable for the customers. My philosophy is to abide with DevOps culture to automate all manual tasks and ensure availability and reliability."
+		}
+	]
+}

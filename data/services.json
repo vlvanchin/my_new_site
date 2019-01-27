@@ -1,0 +1,20 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Eclipse Vorto",
+			"description" : "Eclipse Vorto is an open source project contributed by Bosch Software Innovations. It allows device manufactures to easily describe device functionality and characteristics as Device Information Models and share & manage them in a central Vorto Repository. "
+		},
+		{
+			"icon" : "pencil-ruler",
+			"title" : "WorkON",
+			"description" : "a Human and System Workflow Platform build on top of JIRA 3.13. Where this platform supports about 500 projects that serves the in-house business use cases. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "EPROM - Gang Programmer",
+			"description" : "This product’s specialty is that it can test and program different capacities of EPROMs in groups up to the maximum of eight. The kit can detect the faulty EPROMs and isolate them from being programmed. It can read the master EPROM and can write the copy into the eight EPROMs. It can check whether the EPROMs are empty "
+		}
+	]
+}
