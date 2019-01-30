@@ -10,11 +10,9 @@ if [ -d "public" ]; then
 fi
 
 #echo -e "\tdeleting old contents in vlvanchin.github.io"
-#cd ../vlvanchin.github.io
-#if [ -d 
-#  rm -fr categories css images js tags
-#rm *
-#cd ../hugo.quickstart
+cd ../vlvanchin.github.io
+rm -fr * 
+cd ../hugo.quickstart
 
 echo -e "\tbuilding site with hugo"
 hugo -d ../vlvanchin.github.io
