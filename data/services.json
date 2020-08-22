@@ -15,6 +15,11 @@
 			"icon" : "pen-nib",
 			"title" : "EPROM - Gang Programmer",
 			"description" : "This product’s specialty is that it can test and program different capacities of EPROMs in groups up to the maximum of eight. The kit can detect the faulty EPROMs and isolate them from being programmed. It can read the master EPROM and can write the copy into the eight EPROMs. It can check whether the EPROMs are empty "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "My so called Blog",
+			"description" : "As a contribution, i have some selfhelp pages on certain technologies... https://vlvanchin.github.io/tips-repo"
 		}
 	]
 }
