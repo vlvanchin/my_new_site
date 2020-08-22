@@ -1,8 +1,8 @@
-#!/usr/bin/zsh -e
+#!/bin/bash -e
 #
 # to run hugo
 #
-echo -e "/tBuilding site page"
+echo -e "\tBuilding site page"
 hugo server
 
 exit 0
