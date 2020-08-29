@@ -3,12 +3,11 @@
 	"skills" : {
 		"Docker: Docker-engine, Docker-compose, Docker swarm, Docker machine" : "60",
 		"AWS: AWS CLI, AWS Beanstalk, AWS S3, AWS EC2" : "55",
-		"Cloud Foundry: deploy, maintain, update apps" : "50",
-		"CI/CD Pipeline: Jenkins, GoCD, Sonarqube, CLM scan, Blackduck" : "70",
+		"Cloud Foundry: apps manager, ops manager" : "50",
+		"CI/CD Pipeline: Jenkins, Sonarqube, CLM scan, Blackduck" : "70",
 		"Java: Core Java, Microservice" : "65",
 	       " WEB: Javascript, HTML, CSS, XML " : "70",
-		"Python" : "40",
-		"Go lang" : "25",
+		"Python" : "50",
 		"Kubernetes" : "30",
 		"Server Admin: RedHat, Suse & Ubuntu" : "40"
 	}
