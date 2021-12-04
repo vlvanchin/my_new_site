@@ -1,14 +1,17 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Docker: Docker-engine, Docker-compose, Docker swarm, Docker machine" : "60",
+		"Scrum Master: Conducted Sprint Rituals, removal of impediments, organized team events, use of JIRA, Confluence, MS Teams, Teams Board, Mentimeter " : "80",
+		"Docker: Docker-engine, Docker-compose, Docker swarm, Docker machine" : "65",
+		"Clouds: Aws, OpenShift, Cloud Foundry, Linode, Azure" : "35",
 		"AWS: AWS CLI, AWS Beanstalk, AWS S3, AWS EC2" : "55",
-		"Cloud Foundry: apps manager, ops manager" : "50",
-		"CI/CD Pipeline: Jenkins, Sonarqube, CLM scan, Blackduck, JFrog" : "70",
-		"Java: Core Java, Microservice" : "65",
-	       " WEB: Javascript, HTML, CSS, XML " : "70",
-		"Python" : "40",
-		"Kubernetes" : "30",
-		"Server Admin: RedHat, Suse & Ubuntu" : "45"
+                "Openshift: oc, webconsole, crc, helm" : "30",
+		"Cloud Foundry: apps manager, ops manager, CF cli" : "50",
+		"LiNode: kubectl to deploy,scale up|down an app" : "40",
+		"CI/CD Pipeline: Jenkins, Sonarqube, CLM scan, FOSSID, JFrog, XRay, Concourse " : "74",
+		"Java: Core Java, Microservice, Springboot " : "65",
+	       " WEB: Javascript, HTML, CSS, XML, NodeJs, Python " : "70",
+		"Kubernetes: MiniKube, usage of kubectl" : "40",
+		"Server Admin: RedHat, Suse & Ubuntu, patching pkgs and tools" : "50"
 	}
 }

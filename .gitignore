@@ -1,3 +1,4 @@
 /hugo-uilite/
 /themes/*
 /public/
+.hugo_build.lock

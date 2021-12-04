@@ -3,6 +3,11 @@
 	"services" : [
 		{
 			"icon" : "pencil-ruler",
+			"title" : "KPI Service App",
+			"description" : "The KPI Service application is to collect and manage all the data|meta data from the deployed Iot Devices using few MicroServices. It has backend, frontend, monito, backup, restore services working together in Pivotal Cloud."
+		},
+		{
+			"icon" : "pencil-ruler",
 			"title" : "Eclipse Vorto",
 			"description" : "Eclipse Vorto is an open source project contributed by Bosch Software Innovations. It allows device manufactures to easily describe device functionality and characteristics as Device Information Models and share & manage them in a central Vorto Repository. "
 		},
