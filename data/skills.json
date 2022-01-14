@@ -1,19 +1,19 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Scrum Master: Conducting Sprint rituals, remove impediments, tools: JIRA, Confluence, MS Teams, Mentimeter, Agile" : "80",
+		"Scrum Master: Conducting Sprint rituals, remove impediments, Lean Mgnt, tools: JIRA, Confluence, MS Teams, Mentimeter, Agile" : "80",
 		"CI/CD Pipeline: Jenkins, Sonarqube, CLM Scan, Blackduck, FossID, Jfrog, Xray, Concourse" : "74",
 		"Docker: Docker-engine, Docker-compose, Docker swarm, Docker machine" : "65",
 		"Kubernetes: MiniKube, usage of kubectl" : "40",
 		"Clouds: Aws, OpenShift, Cloud Foundry, Linode, Azure" : "35",
 		"AWS: AWS CLI, AWS Beanstalk, AWS S3, AWS EC2" : "55",
 		"Cloud Foundry: apps manager, ops manager, CF cli" : "50",
-                "Openshift: oc, webconsole, crc, helm" : "30",
+    "Openshift: oc, webconsole, crc, helm" : "30",
 		"LiNode: kubectl to deploy,scale up|down an app" : "40",
 		"Ansible for server configuration" : "25",
-		"Servers: RedHat, Suse & Ubuntu, patching pkgs and tools" : "50",
-		"Languages: Java, SQL, Shell Scripting, Python and Groovy Scripting, Nodejs" : "65",
-	        "WEB: Javascript, HTML, CSS, XML, NodeJs, Python " : "70",
+		"Servers: RedHat, Suse & Ubuntu, patching pkgs and tools, shell script" : "50",
+    "Java: Core, Springboot, JPA, Struts, REST, Groovy, SQL " : "70",
+    "WEB: Javascript, HTML, CSS, XML, NodeJs, Python, JQuery " : "70",
 		"Tools: Ant, Maven, Eclipse, JUnit, Jmock, GIT, Confluence, JIRA" : "70"
 	}
 }
